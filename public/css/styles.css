@@ -1,0 +1,11 @@
+img {
+  max-width: 100%;
+  min-width: 15px;
+}
+
+.rotate-180 {
+  transform: rotate(180deg);
+}
+.disable {
+  opacity: 0.5;
+}
